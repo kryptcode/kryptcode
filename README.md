@@ -1,0 +1,5 @@
+- 👋 Hi, I'm Koye
+- 👀 I’m a Web dev
+- 🌱 I’m currently building projects with Nextjs & Vite
+- 📫 How to reach me:
+    -[Portfolio site](https://koye.vercel.app/)
