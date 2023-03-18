@@ -2,4 +2,4 @@
 - 👀 I’m a Web dev
 - 🌱 I’m currently building projects with Nextjs & Vite
 - 📫 How to reach me:
-    -[Portfolio site](https://koye.vercel.app/)
+    -[Portfolio site](https://koyev3.vercel.app/)
