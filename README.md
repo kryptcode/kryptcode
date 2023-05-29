@@ -3,8 +3,7 @@
 - 🌱 I’m currently building projects with Nextjs & Vite
 - 📫 How to reach me:
     -[Portfolio site](https://koyev3.vercel.app/)
-    
-[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=kryptcode&count_private=true&show_icons=true&theme=radical)](https://github.com/kryptcode/github-readme-stats)
+ 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kryptcode&layout=compact&count_private=true&show_icons=true&theme=radical)](https://github.com/kryptcode/github-readme-stats)
 
