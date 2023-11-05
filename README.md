@@ -3,6 +3,7 @@
 - 👋 Hi, I'm Koye
 - 👀 I’m a Web dev
 - 🌱 I’m currently building projects with Nextjs & Vite
+- 🌱 I’m currently learning Laravel
 - 📫 How to reach me:
     -[Portfolio site](https://koyev3.vercel.app/)
  
