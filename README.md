@@ -9,7 +9,7 @@ Web Developer
 
 I'm a passionate web developer with a strong foundation in creating responsive and user-friendly websites. With a keen eye for design and a love for coding, I take pride in crafting web experiences that not only look great but also function flawlessly.
 
-* 🖥️  See my portfolio at [at my portfolio site](http://koyev3.vercel.app)
+* 🖥️  See my portfolio at [koyev3.vercel.app](http://koyev3.vercel.app)
 * ✉️  You can contact me at [adeyombokehd@gmail.com](mailto:adeyombokehd@gmail.com)
 * 🧠  I'm learning Laravel
 * 🤝  I'm open to collaborating on interesting projects
