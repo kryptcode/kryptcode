@@ -11,7 +11,7 @@ I'm a passionate web developer with a strong foundation in creating responsive a
 
 * 🖥️  See my portfolio at [koyev3.vercel.app](http://koyev3.vercel.app)
 * ✉️  You can contact me at [adeyombokehd@gmail.com](mailto:adeyombokehd@gmail.com)
-* 🧠  I'm learning C# and Express
+* 🧠  I'm currently learning C#, Laravel and Gsap
 * 🤝  I'm open to collaborating on interesting projects
 
 
