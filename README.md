@@ -4,7 +4,7 @@
 Hi 👋 My name is Koye
 ============================================================================================================================
 
-* 🖥️  See my portfolio at [koyev3.vercel.app](http://koyev3.vercel.app)
+* 🖥️  See my portfolio at [koyejo.vercel.app](http://koyejo.vercel.app)
 * ✉️  You can contact me at [adeyombokehd@gmail.com](mailto:adeyombokehd@gmail.com)
 
 
